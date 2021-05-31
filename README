@@ -1,0 +1,6 @@
+Try to reproduce https://github.com/hmsk/vite-plugin-elm/issues/9#issuecomment-843148245
+
+```
+npm i
+npm run dev
+```

@@ -1,0 +1,19 @@
+{
+  "name": "vite-plugin-elm-issue-9",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hmsk/vite-plugin-elm-issue-9.git"
+  },
+  "author": "hmsk",
+  "license": "ISC",
+  "devDependencies": {
+    "elm": "^0.19.1-5",
+    "vite": "^2.3.4",
+    "vite-plugin-elm": "^2.3.1"
+  }
+}
